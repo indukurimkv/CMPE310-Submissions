@@ -1,0 +1,2 @@
+{"rule":"PIN_NUMBER","sentence":"^\\QThe top of the program defines several constants like the LED pin numbers.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q enum stores\\E$"}
